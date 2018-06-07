@@ -1,5 +1,6 @@
-envExample
-db.sqlite3
+*.pyc
+*~
 __pycache__
-.idea
-migrations
+db.splite3
+.DS_Store
+django-cms-tutorial
